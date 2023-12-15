@@ -1,0 +1,113 @@
+body{
+        font-family: 'Poppins', sans-serif;
+}
+h1{
+        font-size: 50px;
+}
+.button{
+        background-color: rgb(236, 77, 49);
+        padding: 10px 20px;
+        text-decoration: none;
+        color: azure;
+        border-radius: 30px;
+}
+.text-colour{
+        color: tomato;
+}
+.first-part{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+}
+.text01{
+        margin-left: 5%;
+        margin-right: 5%;
+}
+.pic01{
+
+        margin-left: 5%;
+        margin-right: 5%;
+}
+.second-part{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+        background-image: url(images/Frame\ 58\ -\ Copy\ \(1\)\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+}
+.pic02{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+}
+.text02{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+}
+.third-part{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.fourth-part{
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
+}
+.first-box{
+        border: 0;
+        border-radius: 20px;
+        width: 23%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 10px;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), -3px -3px 5px rgba(255, 255, 255, 0.3);
+              
+        
+}
+.second-box{
+        border: 0;
+        border-radius: 20px;
+        width: 23%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 10px;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), -3px -3px 5px rgba(255, 255, 255, 0.3);
+}
+.fifth-part{
+        display: flex;
+        justify-content: center;
+        border:0;
+        border-radius: 30px;
+        margin: 10%;
+        box-shadow: inset 2px 0 3px rgba(0, 0, 0, 0.1), inset 0 2px 3px rgba(0, 0, 0, 0.1), inset -2px 0 3px rgba(0, 0, 0, 0.1), inset 0 -2px 3px rgba(0, 0, 0, 0.1);
+              
+              
+        
+}
+.one{
+        
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 40px;
+}
+.two{
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 40px;
+}
+.three{
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 40px;
+}
+.sixth-part{
+        background-color: black;
+        padding: 40px;
+}
+.final-part{
+        text-align: center;
+        color: azure;
+}
